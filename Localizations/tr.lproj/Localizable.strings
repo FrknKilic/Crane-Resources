@@ -154,6 +154,6 @@
 "OPEN_REPO" = "Repo'yu Aç";
 "ACTIVATOR_INFO_SUGGESTION_TITLE" = "Aktivatör Entegrasyonu";
 "ACTIVATOR_INFO_SUGGESTION_MESSAGE" = "Crane, belirli bir konteyner etkin olarak ayarlandığında yürütülecek bir etkinleştirici eylemi atamanıza olanak tanır. Buna Aktivatör -> (Her Yerde/Ana Ekranda/Uygulamada/Kilit Ekranında) -> Cranden erişilebilirsiniz. Ayrıca, Aktivatör -> (Her Yerde/Ana Ekranda/Uygulamada/Kilit Ekranında) -> (Herhangi Bir Olay) -> Crane içinden erişilebilen bir uygulama için belirli bir konteyner etkin olarak ayarlamak için eylemler içerir. ";
-"SHORTCUTS_INFO_SUGGESTION_TITLE" = "Kısayollar Entegrasyonu";
-"SHORTCUTS_INFO_SUGGESTION_MESSAGE" = "Crane, bir uygulamanın aktif konteynerini ayarlamak için bir Kısayol Eylemi içerir, Uygulamalar -> Crane -> Aktif Crane Konteynerini Ayarla altında bir Kısayol'a Eylem eklerken erişilebilir";
+"SHORTCUTS_INFO_SUGGESTION_TITLE" = "Kestirmeler Entegrasyonu";
+"SHORTCUTS_INFO_SUGGESTION_MESSAGE" = "Crane, bir uygulamanın aktif konteynerini ayarlamak için bir Kestirme Eylemi içerir, Uygulamalar -> Crane -> Aktif Crane Konteynerini Ayarla altında bir Kestirmeye Eylem eklerken erişilebilir";
 
